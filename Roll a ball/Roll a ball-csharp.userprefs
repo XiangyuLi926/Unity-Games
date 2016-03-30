@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Perplexus/Assets/Scripts/BigBallScript.cs">
+    <Files>
+      <File FileName="../Perplexus/Assets/Scripts/RailScript.cs" Line="35" Column="27" />
+      <File FileName="../Perplexus/Assets/Scripts/BigBallScript.cs" Line="35" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
